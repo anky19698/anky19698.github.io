@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="40" height="40" rx="8" fill="#F0F9FF"/>
+  
+  <!-- Pie chart -->
+  <path d="M20 10C14.4772 10 10 14.4772 10 20C10 25.5228 14.4772 30 20 30V10Z" fill="#3498DB"/>
+  <path d="M20 10V30C25.5228 30 30 25.5228 30 20C30 14.4772 25.5228 10 20 10Z" fill="#E74C3C"/>
+  <path d="M20 10V20H30C30 14.4772 25.5228 10 20 10Z" fill="#F1C40F"/>
+  
+  <!-- Bar chart -->
+  <rect x="6" y="34" width="4" height="4" fill="#2ECC71"/>
+  <rect x="12" y="30" width="4" height="8" fill="#2ECC71"/>
+  <rect x="18" y="26" width="4" height="12" fill="#2ECC71"/>
+  
+  <!-- Line graph -->
+  <polyline points="26,30 30,26 34,28 38,22" stroke="#9B59B6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
